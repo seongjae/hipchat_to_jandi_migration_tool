@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hipchat-to-jandi.iml" filepath="$PROJECT_DIR$/.idea/modules/hipchat-to-jandi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hipchat-to-jandi_main.iml" filepath="$PROJECT_DIR$/.idea/modules/hipchat-to-jandi_main.iml" group="hipchat-to-jandi" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hipchat-to-jandi_test.iml" filepath="$PROJECT_DIR$/.idea/modules/hipchat-to-jandi_test.iml" group="hipchat-to-jandi" />
+    </modules>
+  </component>
+</project>
